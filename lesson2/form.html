@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form method="post" action="form.php">
+        <fieldset>
+            <legend>客戶資料</legend>
+            姓名:<input type="text" id="name">
+            電話:<input type="text" id="phone">
+            性別:<select name="gender">
+                <option value="Value1" selected="selected">男性</option>
+                <option value="Value2">女性</option>
+                <option value="Value3">中性</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>訂單</legend>
+            數量:<input type="text" id="quantity">
+            附註:<textarea name="note" id="remarks" cols="40" rows="10"></textarea>
+        </fieldset>
+    </form>
+</body>
+
+</html>
