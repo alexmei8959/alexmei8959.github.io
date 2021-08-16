@@ -1,0 +1,11 @@
+.quarantee {
+    padding: 25px 30px 25px 60px;
+    border: 1px white dashed;
+    border-radius: 15px 30px 45px 60px;
+    margin: 30px;
+    background-color: #12B9F0;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+    width: 300px;
+}
