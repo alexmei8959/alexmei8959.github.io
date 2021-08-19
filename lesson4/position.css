@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.box1 {
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: yellow;
+    float: left;
+
+}
+
+.box2 {
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: blue;
+    float: left;
+}
+
+.box3 {
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: purple;
+    float: left;
+
+
+}
+
+.box4 {
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: green;
+    float: left;
+
+}
+
+.box5 {
+    max-width: 300px;
+    padding: 10px;
+    margin: 20px;
+    background-color: gray;
+    float: left;
+}

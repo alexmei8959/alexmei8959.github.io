@@ -1,0 +1,36 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.row {
+    width: 800px;
+}
+
+#box1 {
+    background-color: #6FC5DC;
+    float: left;
+}
+
+#box2 {
+    background-color: #B3ED47;
+    float: left;
+}
+
+#box3 {
+    background-color: #F9EB5E;
+    float: left;
+}
+
+#box4 {
+    background-color: #EB5787;
+    float: left;
+}
